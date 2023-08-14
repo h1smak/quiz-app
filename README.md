@@ -4,13 +4,13 @@ The Flutter quiz application is a dynamic mobile app that engages users through 
 
 ## Screenshots
 - Main page (plants list)<br>
-<img src="media/start_screen.jpg" width="200">
+<img src="media/start_screen.jpg" width="400">
 
 - When clicked on a plant image<br>
-<img src="media/question.jpg" width="200">
+<img src="media/question.jpg" width="400">
 
 - When clicked on the zoom icon<br>
-<img src="media/result.jpg" width="200">
+<img src="media/result.jpg" width="400">
 
 ## Getting Started
 
